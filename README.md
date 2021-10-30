@@ -1,2 +1,2 @@
-# Digit-Recognizer
+# Digit Recognizer
 Digit recognition program
