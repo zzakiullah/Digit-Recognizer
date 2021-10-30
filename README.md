@@ -1,2 +1,2 @@
 # Digit-Recognizer
-Deep learning digit recognition program
+Digit recognition program
